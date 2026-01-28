@@ -95,13 +95,4 @@ Harshvardhan Shetgar
 MSc Bioinformatics Aspirant
 
 
----
-
-If you want, next we can:
-- Fix and clean `main.nf`
-- Replace dummy variant calling with real `bcftools`
-- Make the pipeline fully production-style (channels, params, logging)
-
-
-Just tell me the next step and we will finish this properly.
 
