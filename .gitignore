@@ -1,0 +1,13 @@
+work/
+data/
+results/
+.nextflow*
+*.log
+*.Zone.Identifier
+data/*.fastq
+data/*.fastq.gz
+data/*.bam
+data/*.sam
+data/*.fa
+data/*.fasta
+data/*.gtf
