@@ -1,6 +1,6 @@
 # Nextflow Variant Calling Pipeline
 
-## Overview
+## Overview 
 This repository contains a beginner-friendly and modular Nextflow DSL2 pipeline for variant calling from paired-end sequencing data.
 
 The pipeline automatically performs reference genome indexing, quality control of raw reads, adapter and quality trimming, read alignment to a reference genome, and variant calling. It is designed for learning purposes, modular workflow understanding, and academic submissions.
